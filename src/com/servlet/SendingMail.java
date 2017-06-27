@@ -9,7 +9,7 @@ public class SendingMail {
 public static void send(String to,String subject,String msg){  
   
 final String user="heerababu80@gmail.com";//change accordingly  
-final String pass="heera.navi@72";  
+final String pass="heera123";  
   
 //1st step) Get the session object    
 
